@@ -68,4 +68,5 @@ In this mini project basic concepts of Data Structure are bound together in one 
 ## RESULTS.
 **welcome screen one**
 
-![Image of Main Menu](https://github.com/swapnillondhe24/Data_Structure_Illustration/Images/main.jpg)
+![Image of Main Menu](https://github.com/swapnillondhe24/Data_Structure_Illustration/blob/master/Images/main.jpg)
+
